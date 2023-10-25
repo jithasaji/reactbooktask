@@ -1,0 +1,34 @@
+.sell-container{
+    display: flex;
+    justify-content: center;
+    background-color:white;
+}
+
+.sell-title{
+    text-align: center;
+    margin-top: 50px;
+    color: goldenrod;
+}
+input{
+    margin-top: 5px;
+    width: 100%;
+    margin-bottom: 5px;
+    outline: none;
+    border: 1px solid black;
+    padding: 5px 0px;
+}
+.bookDetails>div{
+
+    margin-bottom: 10px;
+}
+.bottonSubmit{
+    background-color:goldenrod;
+    color:black;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+
+
+}
